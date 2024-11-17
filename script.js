@@ -20,9 +20,9 @@
             // Load settings from localStorage
             const settings = JSON.parse(localStorage.getItem('editorSettings')) || {
                 wordWrap: true,
-                fontSize: 1,
-                lineSpacing: 1,
-                charSpacing: 1
+                fontSize: 14,
+                lineSpacing: 1.5,
+                charSpacing: 1.2
             };
             
             // Apply settings
