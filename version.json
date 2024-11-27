@@ -2,12 +2,4 @@
     "start.html": "1.0.2",
     "style.css": "1.0.3",
     "script.js": "1.0.1",
-    "icons": {
-        "icon1.png": "1.0.0",
-        "icon2.png": "1.0.0"
-    },
-    "fonts": {
-        "font1.ttf": "1.0.0",
-        "font2.woff": "1.0.0"
-    }
 }
